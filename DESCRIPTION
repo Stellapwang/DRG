@@ -1,0 +1,11 @@
+Package: DRG
+Type: Package
+Title: This package plot DRG code and calculates Medicare payment statisitcs
+Version: 0.1.0
+Author: swang
+Maintainer: The package maintainer <piw24002@med.cornell.edu>
+Description: This package has two functions: 1. plot DRG code by types of payment from input; 2. calculates Medicare payment by any input function (e.g. mean, median, sd)
+License: N/A
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
