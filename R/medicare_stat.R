@@ -7,6 +7,8 @@
 #' @export
 #'
 #' @examples
+#'
+#' Use this function by calling DRG dataframe and input varialbe for a function mean
 #' Medicare_stat (DRG, mean)
 #'
 #'
